@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on development and automation.
+- 🌱 I’m currently learning development and automation.
+- 👯 I’m looking to collaborate on projects!
+- 💬 Ask me about Harmony Validation.
+- 📫 How to reach me: @patrickmogul
+- ⚡ Fun fact: Coming soon!
