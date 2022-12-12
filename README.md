@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on development and automation.
-- 🌱 I’m currently learning development and automation.
+- 🌱 I’m currently learning a lot more about full stack development and automation.
 - 👯 I’m looking to collaborate on projects!
 - 💬 Ask me about Harmony Validation.
 - 📫 How to reach me: @patrickmogul
-- ⚡ Fun fact: Stake Harmony ONE coin with EasyNode.ONE and earn 9%+ yearly!
+- ⚡ Fun facts: Stake Harmony ONE or Findora FRA coins with EasyNode.PRO and earn rewards!
