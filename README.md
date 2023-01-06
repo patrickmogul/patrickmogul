@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, it's a beautiful day!
 
 <!--
 **patrickmogul/patrickmogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,5 @@ Hello, I'm Patrick from EasyNode.PRO.
 - 💬 Ask me about Harmony Validation.
 - 📫 How to reach me: @patrickmogul
 - ⚡ Fun facts: Stake Harmony ONE or Findora FRA coins with EasyNode.PRO and earn rewards!
+
+I enjoy coding projects in python, next.js, express and mongoDB.
