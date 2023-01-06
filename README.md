@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello, I'm Patrick from EasyNode.PRO.
+
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmogul&show_icons=true&layout=compact&theme=dark)](https://github.com/patrickmogul)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmogul&layout=compact&theme=dark)](https://github.com/patrickmogul)
+
 - 🔭 I’m currently working on development and automation.
 - 🌱 I’m currently learning a lot more about full stack development and automation.
 - 👯 I’m looking to collaborate on projects!
