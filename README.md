@@ -17,7 +17,7 @@ I'm Patrick from EasyNode.PRO. I'm a freelance software developer focused on bui
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickmogul&include_orgs=true&count_private=true&show_icons=true&layout=compact&theme=merko" />
 </a>
 <a href="(https://github.com/patrickmogul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmogul&include_orgs=true&count_private=true&layout=compact&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmogul&include_orgs=easy-node-pro&count_private=true&layout=compact&theme=merko" />
 </a>
 
 - 🔭 I’m currently working on development and automation.
