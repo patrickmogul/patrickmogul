@@ -19,7 +19,7 @@ I'm Patrick from EasyNode.PRO. I'm a freelance software developer focused on bui
 </a>
 <a href="(https://github.com/patrickmogul">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmogul&show_icons=true&line_height=28&hide_border=true&card_width=450&include_orgs=true&count_private=true&layout=compact&theme=merko" />
-</a>
+</a><br /><br />
 🔭 I’m currently working on development and automation.<br />
 🌱 I’m currently learning a lot more about full stack development and automation.<br />
 👯 I’m looking to collaborate on projects!<br />
