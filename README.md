@@ -1,10 +1,10 @@
 ### Hello, it's a beautiful day!
 I'm Patrick from EasyNode.PRO. I'm a freelance software developer focused on building out websites with API infrastructure to serve data. I enjoy coding projects in python, next.js, express and mongoDB. If you need a consultant or a developer get in touch with me today [here](https://easynode.pro/links)
 
-<div align="center">
 [![Github](https://img.shields.io/github/followers/patrickmogul?label=Follow&style=social)](https://github.com/patrickmogul)<br />
-  
-<a href="(https://github.com/easy-node-pro/findora-toolbox">
+
+<div align="center">
+<a href="https://github.com/easy-node-pro/findora-toolbox">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=easy-node-pro&repo=findora-toolbox&show_icons=true&show_owner=true&hide_border=true&theme=merko" />
 </a>
 <a href="https://github.com/easy-node-pro/findora-toolbox-web">
