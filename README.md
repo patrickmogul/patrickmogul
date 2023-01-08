@@ -26,6 +26,6 @@ I'm Patrick from EasyNode.PRO. I'm a freelance software developer focused on bui
 🌱 I’m currently learning a lot more about full stack development and automation.<br />
 👯 I’m looking to collaborate on projects!<br />
 💬 Ask me about being a Proof of Stake validator on Harmony or Findora.<br />
-📫 How to reach me: [@patrickmogul](https://twitter.com/patrickmogul)<br />
+  📫 How to reach me: <a href="https://twitter.com/patrickmogul">@patrickmogul</a><br />
 ⚡ Fun facts: We run staking pools and help people make UBI or residual income via staking every single day!<br />
 </div>
