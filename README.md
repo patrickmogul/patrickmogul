@@ -5,7 +5,7 @@ I'm Patrick from EasyNode.PRO. I'm a freelance software developer focused on bui
 
 <div align="center">
 <a href="https://github.com/easy-node-pro/findora-toolbox">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=easy-node-pro&repo=findora-toolbox&show_icons=true&show_owner=true&hide_border=true&theme=merko" />
+  <img src="https://github-readme-stats-six-pink.vercel.app/api/pin/?username=easy-node-pro&repo=findora-toolbox&show_icons=true&show_owner=true&hide_border=true&theme=merko" />
 </a>
 <a href="https://github.com/easy-node-pro/harmony-toolbox">
   <img src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=easy-node-pro&repo=harmony-toolbox&show_icons=true&show_owner=true&hide_border=true&theme=merko" />
